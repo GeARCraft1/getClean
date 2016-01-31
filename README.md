@@ -1,4 +1,6 @@
 # getClean : Colorful Backgrounds, Clear the Terminal, ... 
+
+[![NPM Version](https://img.shields.io/npm/v/cli-clear.svg)](https://npmjs.org/package/cli-clear) 
 An Easy Way to get a Terminal Clear String. Useful for colored BackGrounds. (Node.JS).
 
 Based on the source code of [this](https://www.npmjs.com/package/cli-clear) module.
