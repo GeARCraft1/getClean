@@ -13,6 +13,6 @@ Based on the source code of [this](https://www.npmjs.com/package/cli-clear) modu
  Note: ANY Color mode is supported, but we're using [chalk](https://www.npmjs.com/package/chalk) to demonstrate:
  ```
     var getClean = require("getclean");
-    process.stdout.write(chalk.blue(getClean));
+    process.stdout.write(chalk.bgBlue(getClean));
 ```
     
